@@ -12,7 +12,6 @@
   "npmName": "hi-sven",
   "npmFileMap": [
     {
-      "basePath": ".",
       "files": [
         "index.js"
       ]
